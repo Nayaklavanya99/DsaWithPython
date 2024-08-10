@@ -42,4 +42,4 @@ test1 = {
         'query': 7},
     "output": 2
 }
-evaluate_test_case(binarySearch,test)
+evaluate_test_case(binarySearch,test1)
